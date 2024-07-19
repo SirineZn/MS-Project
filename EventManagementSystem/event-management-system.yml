@@ -1,0 +1,22 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: event-management-system
+  data:
+    mongodb:
+      uri: mongodb://mongodb:27017/eventdb
+  cloud:
+    openfeign:
+      client:
+        config:
+          default:
+            connectTimeout: 5000
+            readTimeout: 5000
+  kafka:
+    bootstrap-servers: kafka:9092
+    consumer:
+      group-id: event-management-system-group
+logging:
+  level:
+    com.yourpackage.productclient: DEBUG
