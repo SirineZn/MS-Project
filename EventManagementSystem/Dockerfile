@@ -1,8 +1,6 @@
 # Use a base image that contains Java
-FROM openjdk:17-jdk-slim
+FROM amazoncorretto:17
 
-# Add a volume pointing to /tmp
-VOLUME /tmp
 
 # Make port 8081 available to the world outside this container
 EXPOSE 8081
