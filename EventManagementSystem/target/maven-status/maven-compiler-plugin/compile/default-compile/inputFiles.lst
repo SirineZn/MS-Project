@@ -1,0 +1,11 @@
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\Controllers\EventController.java
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\Controllers\ProductClient.java
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\DTO\EventDTO.java
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\DTO\ProductDTO.java
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\Event\EventConsumer.java
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\Event\EventProducer.java
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\EventManagementSystemApplication.java
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\Exceptions\EventNotFoundException.java
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\Models\Event.java
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\Repositories\EventRepository.java
+C:\Users\sirine\Desktop\MS-Project\EventManagementSystem\src\main\java\org\example\eventmanagementsystem\Services\EventService.java

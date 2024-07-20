@@ -1,0 +1,9 @@
+C:\Users\sirine\Desktop\MS-Project\OnlineStoreCatalog\src\main\java\org\example\onlinestorecatalog\Controllers\ProductController.java
+C:\Users\sirine\Desktop\MS-Project\OnlineStoreCatalog\src\main\java\org\example\onlinestorecatalog\DTO\ProductDTO.java
+C:\Users\sirine\Desktop\MS-Project\OnlineStoreCatalog\src\main\java\org\example\onlinestorecatalog\Event\ProductConsumer.java
+C:\Users\sirine\Desktop\MS-Project\OnlineStoreCatalog\src\main\java\org\example\onlinestorecatalog\Event\ProductProducer.java
+C:\Users\sirine\Desktop\MS-Project\OnlineStoreCatalog\src\main\java\org\example\onlinestorecatalog\Exceptions\ProductNotFoundException.java
+C:\Users\sirine\Desktop\MS-Project\OnlineStoreCatalog\src\main\java\org\example\onlinestorecatalog\Models\Product.java
+C:\Users\sirine\Desktop\MS-Project\OnlineStoreCatalog\src\main\java\org\example\onlinestorecatalog\OnlineStoreCatalogApplication.java
+C:\Users\sirine\Desktop\MS-Project\OnlineStoreCatalog\src\main\java\org\example\onlinestorecatalog\Repositories\ProductRepository.java
+C:\Users\sirine\Desktop\MS-Project\OnlineStoreCatalog\src\main\java\org\example\onlinestorecatalog\Services\ProductService.java

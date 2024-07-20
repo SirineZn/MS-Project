@@ -1,0 +1,9 @@
+org\example\onlinestorecatalog\Controllers\ProductController.class
+org\example\onlinestorecatalog\Exceptions\ProductNotFoundException.class
+org\example\onlinestorecatalog\Models\Product.class
+org\example\onlinestorecatalog\DTO\ProductDTO.class
+org\example\onlinestorecatalog\Event\ProductConsumer.class
+org\example\onlinestorecatalog\OnlineStoreCatalogApplication.class
+org\example\onlinestorecatalog\Services\ProductService.class
+org\example\onlinestorecatalog\Event\ProductProducer.class
+org\example\onlinestorecatalog\Repositories\ProductRepository.class
